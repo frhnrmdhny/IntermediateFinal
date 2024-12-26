@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Fukasaku</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to upload a story? Just Fukasaku!</string>
+    <string name="title_welcome_page">Welcome to Fukasaku</string>
+    <string name="title_signup_page">Please complete your personal data below.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter data first</string>
+    <string name="title_login_page">Are you ready to upload your story?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="password_error">Password must 8 characters</string>
+    <string name="email_error">Wrong format email!</string>
+    <string name="image">image</string>
+    <string name="btnUpload">Upload</string>
+    <string name="btnGallery">Gallery</string>
+    <string name="btnCamera">Camera</string>
+    <string name="addDescription">Add Description story</string>
+    <string name="fab">Add Story</string>
+    <string name="all_stories">All Stories</string>
+    <string name="logout_menu">Logout</string>
+    <string name="msg_title">Yeay!</string>
+    <string name="msg_desc">You Have Successfully Login!</string>
+    <string name="msg_button">Continue</string>
+    <string name="title_detail">Title</string>
+    <string name="title_desc">Description</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Map</string>
+    <string name="map_menu">Map</string>
+    <string name="layout_error">No stories available</string>
+    <string name="retry">Retry</string>
+</resources>
